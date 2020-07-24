@@ -1,0 +1,21 @@
+{
+  "name": "acsm-react-components",
+  "version": "1.0.1",
+  "description": "acsm-react-components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdenMendoza/acsm-react-components.git"
+  },
+  "keywords": [
+    "acsm",
+    "react",
+    "components"
+  ],
+  "author": "Arden Cristopher S. Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdenMendoza/acsm-react-components/issues"
+  },
+  "homepage": "https://github.com/ArdenMendoza/acsm-react-components#readme"
+}
