@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ArdenMendoza/acsm-react-components/issues"
   },
-  "homepage": "https://github.com/ArdenMendoza/acsm-react-components#readme"
+  "homepage": "https://github.com/ArdenMendoza/acsm-react-components#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "react": "^16.13.1"
+  }
 }
